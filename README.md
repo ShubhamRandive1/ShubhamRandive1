@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamRandive1
 
-<h3 align="center">A passionate frontend developer from India who is Always eager to learn and expand the horizon of knowledge</h3>
+<h3 align="center">A passionate Web developer from India who is Always eager to learn and expand the horizon of knowledge</h3>
 
 - 🔭 I’m currently working on [Cloning Different websites](https://github.com/ShubhamRandive1/Clone-Lyst.com-Website.git)
 

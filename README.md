@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on [Cloning Different websites](https://github.com/ShubhamRandive1/Clone-Lyst.com-Website.git)
 
-- 🌱 I’m currently learning **Advance JavaScript, react, MongoDB**
+- 🌱 I’m currently learning **Java,Advance JavaScript,HTML,CSS,Bootstrap**
 
-- 👯 I’m looking to collaborate on **react project**
+- 👯 I’m looking to collaborate on **Java projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamRandive1](https://github.com/ShubhamRandive1)
 
 - 📝 I regularly write articles on [https://medium.com/@randiveshubham61](https://medium.com/@randiveshubham61)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **github.com/ShubhamRandive1**
 

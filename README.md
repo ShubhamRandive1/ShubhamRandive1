@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on **Java Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamRandive1](https://github.com/ShubhamRandive1)
-- 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/gamerx295/overview](https://app.netlify.com/teams/gamerx295/overview)
 
 - 📝 I regularly write articles on [https://medium.com/@randiveshubham61](https://medium.com/@randiveshubham61)

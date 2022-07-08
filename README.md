@@ -13,7 +13,6 @@
 - 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/gamerx295/overview](https://app.netlify.com/teams/gamerx295/overview)
 
-
 - 📝 I regularly write articles on [https://medium.com/@randiveshubham61](https://medium.com/@randiveshubham61)
 
 - 💬 Ask me about **JAVA**

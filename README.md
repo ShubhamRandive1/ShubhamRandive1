@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrandive1&" alt="shubhamrandive1" /></p>
 
-![counter](https://enl3wklii0oxvn9.m.pipedream.net)
+[!Counter](https://enl3wklii0oxvn9.m.pipedream.net)

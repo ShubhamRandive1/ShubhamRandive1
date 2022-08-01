@@ -37,3 +37,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shubhamrandive1&show_icons=true&locale=en" alt="shubhamrandive1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamrandive1&" alt="shubhamrandive1" /></p>
+
+![counter](https://[https://enl3wklii0oxvn9.m.pipedream.net].m.pipedream.net)

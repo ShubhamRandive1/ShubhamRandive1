@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Randive</h1>
 <h3 align="center">A passionate Web developer from India who is Always eager to learn and expand the horizon of knowledge</h3>
 
-![Counter](https://enfsly29xr99sll.m.pipedream.net)
+![Counter](https://enl3wklii0oxvn9.m.pipedream.net)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shubhamrandive1" alt="shubhamrandive1" /></a> </p>
 

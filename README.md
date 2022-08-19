@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamRandive1](https://github.com/ShubhamRandive1)
 
-- 💬 Ask me about **JAVA SQL SPRING**
+- 💬 Ask me about **JAVA, SQL, SPRING**
 
 - 📫 How to reach me [Portfolio](https://jocular-trifle-ec2438.netlify.app/)
 <br>

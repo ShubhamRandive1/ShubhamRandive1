@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Cloning Different websites](https://github.com/ShubhamRandive1/Clone-Lyst.com-Website.git)
 
-- 🌱 I’m currently learning **JAVA, Advance JavaScript, HTML, CSS, Bootstrap**
+- 🌱 I’m currently learning **JAVA, SQL, SPRING, Advance JavaScript, HTML, CSS, Bootstrap**
 
 - 👯 I’m looking to collaborate on **Java Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamRandive1](https://github.com/ShubhamRandive1)
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA SQL SPRING**
 
 - 📫 How to reach me [Portfolio](https://jocular-trifle-ec2438.netlify.app/)
 <br>

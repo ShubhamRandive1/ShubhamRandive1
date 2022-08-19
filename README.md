@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrandive1&label=Profile%20views&color=b40e40&style=flat-square" alt="shubhamrandive1" /> </p>
 
+<p><img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt=""/></p>
+
 - 🔭 I’m currently working on [Cloning Different websites](https://github.com/ShubhamRandive1/Clone-Lyst.com-Website.git)
 
 - 🌱 I’m currently learning **JAVA, Advance JavaScript, HTML, CSS, Bootstrap**

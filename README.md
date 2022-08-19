@@ -13,13 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamRandive1](https://github.com/ShubhamRandive1)
 
-- 📝 I regularly write articles on [https://medium.com/@randiveshubham61](https://medium.com/@randiveshubham61)
-
 - 💬 Ask me about **JAVA**
 
 - 📫 How to reach me [Portfolio](https://jocular-trifle-ec2438.netlify.app/)
-
-- ⚡ Fun fact **I always look for the easy path but as I dive deeper into any topic I tend to research more and more and dig deeper and try to understand the topic from core**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

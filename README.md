@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JAVA**
 
-- 📫 How to reach me **github.com/ShubhamRandive1**
+- 📫 How to reach me [Portfolio](https://jocular-trifle-ec2438.netlify.app/)
 
 - ⚡ Fun fact **I always look for the easy path but as I dive deeper into any topic I tend to research more and more and dig deeper and try to understand the topic from core**
 

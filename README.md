@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JAVA, SQL, SPRING**
 
-- 📫 How to reach me [Portfolio](https://jocular-trifle-ec2438.netlify.app/)
+- 📫 How to reach me [Portfolio](https://shubhamrandiveportfolio.netlify.app/)
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

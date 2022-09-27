@@ -19,6 +19,16 @@
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
+  
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Druvo100/)](https://twitter.com/Shubham85197721/)
+<a href="https://www.linkedin.com/in/ShubhamRandive1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/randiveshubham61" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:randiveshubham61gmail.com)](mailto:zhdruvo@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ShubhamRandive1/)](https://github.com/ShubhamRandive1/)
+  
+  
+  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shubham-randive-269222145/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubham-randive-269222145/" height="30" width="40" /></a>
 <a href="https://medium.com/@randiveshubham61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@randiveshubham61" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/randiveshubham61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="randiveshubham61" height="30" width="40" /></a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham C Randive</h1>
-<h3 align="center">A passionate Web developer from India who is Always eager to learn and expand the horizon of knowledge</h3>
+<h3 align="center">A Java Back-End developer having more than 600+ hours hands on coding experience in java core, having command  in SpringBoot framework , Hibernate, Jpql, JPA and  adept in implementing MySQL quries</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamrandive1&label=Profile%20views&color=b40e40&style=flat-square" alt="shubhamrandive1" /> </p>
 

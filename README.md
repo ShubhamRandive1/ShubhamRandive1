@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamRandive1](https://github.com/ShubhamRandive1)
 
-- 💬 Ask me about **| JAVA | SQL | SPRING BOOT |**
+- 💬 Ask me about **| JAVA | SQL | SPRING BOOT | Hibernate |**
 
 - 📫 How to reach me [Portfolio](https://shubhamrandiveportfolio.netlify.app/)
 <br>

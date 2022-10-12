@@ -17,7 +17,7 @@
 
 - 📫 How to reach me [Portfolio](https://shubhamrandiveportfolio.netlify.app/)
 <br>
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://shubhamrandiveportfolio.netlify.app/) 

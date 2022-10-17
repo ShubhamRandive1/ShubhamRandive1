@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Payment_Wallet_Application](https://github.com/ShubhamRandive1/Wallet_Payment_Application)
 
-- 🌱 I’m currently learning **JAVA 8 | MySQL | SPRING BOOT | Hibernate | Advance JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap5 |**
+- 🌱 I’m currently learning **JAVA 8 | MySQL | SPRING BOOT | JDBC | Hibernate | Advance JavaScript (ES6+) | HTML5 | CSS3 | Bootstrap5 |**
 
 - 👯 I’m looking to collaborate on **Java Project**
 

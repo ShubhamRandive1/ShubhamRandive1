@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shubham C Randive</h1>
-<h3 align="center">A Java Back-End developer having more than 1200+ hours hands on coding experience in java core, having command  in SpringBoot framework , Hibernate, Jpql, JPA and  adept in implementing MySQL quries</h3>
+<h3 align="center">A Java Back-End developer enthusiastic in developing robust and scalable web application, having good command in SpringBoot framework developing REST API , Hibernate, Jpql, Spring JPA and  adept in implementing MySQL quries</h3>
 
 [![@shubhamrandive1's Holopin board](https://holopin.me/shubhamrandive1)](https://holopin.io/@shubhamrandive1)
 
